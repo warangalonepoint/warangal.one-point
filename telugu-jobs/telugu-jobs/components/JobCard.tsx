@@ -1,0 +1,1 @@
+export default function JobCard({job}){return <div>{job.title}</div>}

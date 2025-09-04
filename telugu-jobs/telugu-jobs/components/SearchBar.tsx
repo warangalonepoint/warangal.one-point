@@ -1,0 +1,1 @@
+'use client';export default function SearchBar(){return <form><input placeholder='Search' /></form>}
